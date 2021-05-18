@@ -1,8 +1,8 @@
 body {
-    background-color: rgb(253, 251, 251);
+  background-color: rgb(253, 251, 251);
 }
 
-#ccabecalho {
+#cabecalho {
   top: 0;
 }
 
@@ -29,7 +29,7 @@ body {
 .lado-direito {
   color: blueviolet;
   display: inline-block;
-  font-family:'Courier New', Courier, monospace;
+  font-family: Courier New, Courier, monospace;
   font-size: 24px;
   line-height: 35px;
   text-align: center;
@@ -50,4 +50,4 @@ footer {
   padding: 4px;
   text-align: center;
   margin-top: 100px;
-}
+};
