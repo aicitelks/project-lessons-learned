@@ -3,23 +3,31 @@ body {
 }
 
 #cabecalho {
+  position: fixed; 
   top: 0;
+}
+
+#titulo {
+  color: coral;
+  font-family: sans-serif;
+}
+
+nav {
+  margin-top: 80px;
 }
 
 #minha_foto {
   height: 300px;
 }
 
-#listaEsq {
+#listaEsq, #listaDir {
   display: inline-block;
-}
-
-#listaDir {
-  display: inline-block;
+  color: darkmagenta;
 }
 
 .lado-esquerdo {
   display: inline-block;
+  color: darkblue;
   line-height: 20px;
   text-align: justify;
   margin-left: 20px;
