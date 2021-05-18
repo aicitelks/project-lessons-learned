@@ -32,3 +32,13 @@ aside {
   margin-right: 100px;
   width: 100px;
 }
+
+table {
+  border: 2px solid red;
+  display: inline-block;
+}
+
+footer {
+  background-color: tomato;
+  color: white;
+}
