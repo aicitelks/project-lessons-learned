@@ -7,7 +7,6 @@ body {
 }
 
 #minha_foto {
-  display: block;
   height: 300px;
 }
 
@@ -18,4 +17,9 @@ body {
 
 #listaDir {
   display: inline-block;
+}
+
+article {
+  display: inline-block;
+  width: 500px;
 }
