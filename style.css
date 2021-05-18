@@ -7,5 +7,15 @@ body {
 }
 
 #minha_foto {
+  display: block;
   height: 300px;
+}
+
+#listaEsq {
+  display: inline-block;
+  text-align: left;
+}
+
+#listaDir {
+  display: inline-block;
 }
