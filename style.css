@@ -12,7 +12,6 @@ body {
 
 #listaEsq {
   display: inline-block;
-  text-align: left;
 }
 
 #listaDir {
@@ -21,5 +20,15 @@ body {
 
 article {
   display: inline-block;
-  width: 500px;
+  text-align: justify;
+  margin-left: 20px;
+  width: 230px;
+}
+
+aside {
+  display: inline-block;
+  text-align: left;
+  margin-left: 100px;
+  margin-right: 100px;
+  width: 100px;
 }
