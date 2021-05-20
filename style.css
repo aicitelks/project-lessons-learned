@@ -3,7 +3,7 @@ body {
 }
 
 #cabecalho {
-  position: fixed; 
+  position: fixed;
   top: 0;
 }
 
@@ -17,17 +17,19 @@ nav {
 }
 
 #minha_foto {
+  float: left;
   height: 300px;
 }
-
-#listaEsq, #listaDir {
+/* TABELA
+#listaEsq #listaDir {
   display: inline-block;
   color: darkmagenta;
 }
-
+*/
 .lado-esquerdo {
-  display: inline-block;
+  /*display: inline-block;*/
   color: darkblue;
+  float: left;
   line-height: 20px;
   text-align: justify;
   margin-left: 20px;
@@ -36,7 +38,8 @@ nav {
 
 .lado-direito {
   color: blueviolet;
-  display: inline-block;
+  /*display: inline-block;*/
+  float: right;
   font-family: Courier New, Courier, monospace;
   font-size: 24px;
   line-height: 35px;
@@ -48,7 +51,7 @@ nav {
 
 table {
   border: 2px solid red;
-  display: inline-block;
+  /*display: inline-block;*/
 }
 
 footer {
@@ -58,4 +61,4 @@ footer {
   padding: 4px;
   text-align: center;
   margin-top: 100px;
-};
+}
