@@ -27,7 +27,6 @@ nav {
   line-height: 20px;
   text-align: justify;
   margin-left: 20px;
-  position: static;
   width: 230px;
 }
 
@@ -40,7 +39,6 @@ nav {
   text-align: center;
   padding-left: 20px;
   padding-right: 20px;
-  position: static;
   width: 250px;
 }
 
