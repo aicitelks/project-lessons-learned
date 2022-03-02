@@ -1,5 +1,6 @@
-# Boas vindas ao repositório do primeiro projeto desenvolvido na Trybe, Módulo 1 - Fundamentos: Lessons Learned! 🚀
-
+# Boas vindas ao repositório do primeiro projeto desenvolvido na Trybe 🚀
+## Módulo 1 - Fundamentos: Lessons Learned
+---
 ## O projeto
 
 Foi desenvolvido um site que contém uma série de informações sobre o que foi aprendido na Trybe ao longo dos últimos três blocos. O site precisava estar com elementos posicionados e estilizados e além disto, conter semântica apropriada para que seja acessível e melhor ranqueado.
@@ -25,4 +26,5 @@ Através desta aplicação, será possível realizar a construção de código H
   * Instale as dependências:
     * npm install
 
-
+---
+Para visualizar o meu **Pull Request** aberto no repositório da Trybe e tomar nota da avaliação e dos testes acesse: [pull/95](https://github.com/tryber/sd-013-b-project-lessons-learned/pull/95)
